@@ -1,1 +1,1 @@
-The source of personal website at nabilhassein.com
+The source code that generates my personal website (nabilhassein.com)
