@@ -4,7 +4,7 @@ Title shamelessly lifted from [Christopher Lane Hinson](http://blog.downstairspe
 
 Below, find a quick (< 1000 word) taste of one thing that makes [Haskell](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29) different from other programming languages. I assume you to have a modest level of experience in programming. You do not need to know anything about Haskell.
 
-The abstract mathematical nature of Haskell is at the heart of its power and beauty, but in this article, we are going to get concrete quickly. You'll need to follow along with an interpreter, so either [use one in a browser](https://ghc.io), or (if you don't already have it) install the [Haskell platform](http://www.haskell.org/platform/). Enter the Haskell interpreter by bringing up a terminal and typing `ghci`.
+The abstract mathematical nature of Haskell is at the heart of its power and beauty, but in this article, we are going to get concrete quickly. You'll need to follow along with an interpreter, so either [use one in a browser](http://ghc.io), or (if you don't already have it) install the [Haskell platform](http://www.haskell.org/platform/). Enter the Haskell interpreter by bringing up a terminal and typing `ghci`.
 
 Haskell is most commonly described as "functional", but if we are confined to choosing a single adjective, *"typeful"* is a better one-word descriptor. Haskell's functional purity certainly sets it apart from most popular programming languages, but it is amazingly powerful and flexible type system which makes worthwhile the constraints the Haskell places on the programmer. Once you learn to leverage it, you will miss it dearly when programming in other languages. In this article I introduce Haskell very briefly, with a focus on its type system.
 
